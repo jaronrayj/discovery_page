@@ -11,10 +11,15 @@ body {
     border-radius: 10px;
     background-color: #FAFAFA;
     color: black;
+    text-decoration: none;
 }
 
 .button:hover {
-    background: #00CCFF;
+    background: #AA6E6F;
     color: #FAFAFA;
+    text-decoration: none;
+}
+
+a {
     text-decoration: none;
 }
