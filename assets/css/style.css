@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: grey;
 }
 
 #logo {
@@ -16,8 +16,5 @@ body {
 .button:hover {
     background: #00CCFF;
     color: #FAFAFA;
-}
-
-.link {
     text-decoration: none;
 }
